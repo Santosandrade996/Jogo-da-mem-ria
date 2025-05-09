@@ -47,9 +47,8 @@ h2 {
 }
 
 .game {
-    border: 1px solid rgb(3, 3, 177);
-    width: 430px;
-    height: 430px;
+    width: 660px;
+    height: 660px;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
@@ -74,7 +73,7 @@ h2 {
 .item::after {
     content: "";
     position: absolute;
-    opacity: 0.85;
+    /* opacity: 0.85; */
     inset: 0;
     background: #404040;
     transition: 0.25s;
