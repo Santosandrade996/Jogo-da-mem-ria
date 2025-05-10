@@ -1,6 +1,6 @@
 # 🧠 Jogo da Memória
 
-Este é um jogo da memória feito com HTML, CSS e JavaScript. O objetivo é encontrar os pares de cartas no menor tempo possível.
+Este é um jogo da memória feito com HTML, CSS e JavaScript. O objetivo é encontrar os pares.
 
 ## 🎮 Como é o jogo
 
